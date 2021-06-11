@@ -1,4 +1,5 @@
 👋 Hi, I’m a team coach and software developer with many years of experience.
+
 🙏 Thanks for stopping by 😊!
 
 <!---
